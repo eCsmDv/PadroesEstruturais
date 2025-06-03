@@ -1,0 +1,6 @@
+Cabeçalho do Relatório
+🔒 {
+    "title": "Relat\u00f3rio JSON",
+    "content": "Dados estruturados"
+} [Conteúdo criptografado]
+Gerado em: 2025-06-02 23:45:15
