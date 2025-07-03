@@ -81,6 +81,4 @@ python main.py
 
 🎯 6. Conclusão
 Este projeto demonstra como os padrões Bridge e Decorator podem ser combinados para criar um sistema modular, expansível e reutilizável. Com essa abordagem, podemos facilmente adicionar novos formatos de relatório e incrementar funcionalidades sem impactar o código base.
-Se precisar de mais refinamentos na documentação, estou aqui para ajudar! 🔥😃🚀
-O que acha? Precisa de ajustes para a apresentação?
 
